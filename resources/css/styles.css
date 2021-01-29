@@ -29,6 +29,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 footer {
+    font-size: 21px;
     text-align: right;
     color: gray;
 }
